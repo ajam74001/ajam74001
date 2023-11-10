@@ -1,4 +1,4 @@
-I am a PhD student at UMBC, In information systems. I did my masters in the computer science program at Koc University (Istanbul, Turkey). My research areas generally lie in data science and Machine learning, deep learning and Reinforcement learning. My current research projects mainly focus on time series forecasting and highly rare event prediction. Also
+I am a PhD student at UMBC, In information systems. I did my masters in the computer science program at Koc University (Istanbul, Turkey). My research areas generally lie in data science, Machine learning, deep learning and Reinforcement learning. My current research projects mainly focus on geneerative AI for healthcare applications. 
 
 
 <!---
