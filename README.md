@@ -1,4 +1,4 @@
-I am a Master student in the computer science program at Koc University (Istanbul, Turkey), working with professor Baris Akgun. My research areas generally lie in data science and Machine and deep learning. My current research projects mainly focus on time series forecasting and highly rare event prediction. Also, I am experienced in Python, R programming, Data Science, Machine Learning, Deep Learning, and Computational Neuroscience.
+I am a PhD student at UMBC, In information systems. I did my masters in the computer science program at Koc University (Istanbul, Turkey). My research areas generally lie in data science and Machine learning, deep learning and Reinforcement learning. My current research projects mainly focus on time series forecasting and highly rare event prediction. Also
 
 
 <!---
