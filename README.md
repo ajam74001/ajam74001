@@ -9,6 +9,9 @@ Hi there 👋, I'm Ainaz Jamshidi!
 - ⚡ Fun fact: I love cooking and swimming.
 - 💞️ I’m looking to collaborate on publishing research papers and Internship opportunities.
 - 📫 How to reach me: ainazj1@umbc.edu
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajam74001)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 - 👋 Hi, I’m @ajam74001
 - 👀 I’m interested in ...
