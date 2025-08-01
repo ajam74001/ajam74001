@@ -1,6 +1,14 @@
-I am a PhD student in information systems at UMBC. I did my masters in the computer science program at Koc University (Istanbul, Turkey). My research areas generally lie in data science, Machine learning, deep learning and Reinforcement learning. My current research projects mainly focus on geneerative AI for healthcare applications. 
-
-
+Hi there 👋, I'm Ainaz Jamshidi!
+---
+<!---I am a PhD candidate in information systems at UMBC. I did my masters in the computer science program at Koc University (Istanbul, Turkey). My research areas generally lie in data science, Machine learning, deep learning and Reinforcement learning. My current research projects mainly focus on geneerative AI for healthcare applications. 
+--->
+- 🎓 PhD in Information systems at the University of Maryland, Baltimore County (UMBC).
+- 🎓 Completed MS in Computer Science from Koc University (Istanbul, Turkey).
+- 💼 Former Data scientist at Trandyol and Atieh Clinical Neuroscience center.
+- 💻 Tech enthusiast passionate about Machine Learning, Deep Learning, and Natural Language Processing.
+- ⚡ Fun fact: I love cooking and swimming.
+- 💞️ I’m looking to collaborate on publishing research papers and Internship opportunities.
+- 📫 How to reach me: ainazj1@umbc.edu
 <!---
 - 👋 Hi, I’m @ajam74001
 - 👀 I’m interested in ...
