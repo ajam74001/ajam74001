@@ -4,7 +4,7 @@ Hi there 👋, I'm Ainaz Jamshidi!
 --->
 - 🎓 PhD in Information systems at the University of Maryland, Baltimore County (UMBC).
 - 🎓 Completed MS in Computer Science from Koc University (Istanbul, Turkey).
-- 💼 Former Data scientist at Trandyol and Atieh Clinical Neuroscience center.
+- 💼 Former Data scientist at Trendyol and Atieh Clinical Neuroscience center.
 - 💻 Tech enthusiast passionate about Machine Learning, Deep Learning, and Natural Language Processing.
 - ⚡ Fun fact: I love cooking and swimming.
 - 💞️ I’m looking to collaborate on publishing research papers and Internship opportunities.
